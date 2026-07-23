@@ -5,7 +5,7 @@ WITH daily_activity AS (
     SELECT DISTINCT
         user_id,
         txn_date,
-        YEARWEEK(txn_date, 3) AS txn_week   -- mode 3 = ISO week, Monday start
+        YEARWEEK(txn_date, 3) AS txn_week 
     FROM transactions
     WHERE status = 'Success'
 ),
