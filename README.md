@@ -58,4 +58,4 @@ Dataset Links:
 | 13 | Offer/Cashback Impact vs Organic Users | [Query](Queries/Query13_Offer_Impact.sql) |
 | 14 | Reactivated Users (return after 45+ day gap) | [Query](Queries/Query14_Reactivated_Users.sql) |
 
-Explore all queries [here]()
+Explore all queries [here](https://github.com/Lakshay2901/Fintech-App-User-Engagement-Retention-Analytics/tree/main/Queries)
