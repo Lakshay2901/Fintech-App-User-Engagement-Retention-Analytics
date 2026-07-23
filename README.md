@@ -41,7 +41,7 @@ Dataset Links:
 
 ## Key SQL Queries
 
-| # | Use Case | Query |
+| # | Use Case | Queries |
 |---|---|---|
 | 1 | Daily Active Users (DAU) | [Query](Queries/Query1_DAU.sql) |
 | 2 | Monthly Active Users (MAU) | [Query](Queries/Query2_MAU.sql) |
