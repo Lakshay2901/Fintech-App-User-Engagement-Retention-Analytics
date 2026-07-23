@@ -2,13 +2,13 @@
 
 This project analyzes user login, transaction, and offer-redemption behavior on a
 digital payments platform using **realistic synthetic data**. Written and
-tested in **MySQL. Uses SQL to uncover churn, retention,
+tested in MySQL. Uses SQL to uncover churn, retention,
 activation, and cashback-offer effectiveness patterns.
 
 ## Overview
 
 - **Timeframe**: Jan 2024 – Dec 2024 (12 months)
-- **Tools Used**: MySQL 8+ (window functions require this minimum versions)
+- **Tools Used**: MySQL 8+ (window functions require this minimum version)
 - **Skills Applied**:
   - Window Functions 
   - CTEs & Subqueries
