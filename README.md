@@ -4,7 +4,9 @@ This project analyses user login, transaction, and offer-redemption behavior on 
 Overview
 
 Timeframe: Jan 2024 – Dec 2024 (12 months)
+
 Tools Used: MySQL 8+ (window functions require this minimum versions)
+
 Skills Applied:
 1) Window Functions (ROW_NUMBER, LAG)
 2) CTEs & Subqueries
