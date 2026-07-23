@@ -1,0 +1,147 @@
+offer_id,user_id,offer_type,offer_date,discount_value,redeemed
+1,6,Cashback,2024-06-22,100,Yes
+2,6,Cashback,2024-04-06,25,No
+3,7,Cashback,2024-12-05,100,Yes
+4,10,Cashback,2024-11-16,25,No
+5,11,Cashback,2024-12-19,150,No
+6,11,Cashback,2024-11-22,200,Yes
+7,13,Discount Coupon,2024-12-11,100,Yes
+8,13,Cashback,2024-09-27,200,Yes
+9,16,Referral Bonus,2024-05-16,100,Yes
+10,17,Cashback,2024-11-17,100,Yes
+11,19,Discount Coupon,2024-08-13,150,No
+12,20,Cashback,2024-11-10,150,Yes
+13,23,Cashback,2024-09-14,100,No
+14,23,Referral Bonus,2024-08-11,75,Yes
+15,25,Discount Coupon,2024-11-21,25,Yes
+16,26,Cashback,2024-12-15,150,No
+17,26,Discount Coupon,2024-02-02,75,No
+18,29,Referral Bonus,2024-11-17,25,Yes
+19,30,Discount Coupon,2024-12-19,150,Yes
+20,30,Cashback,2024-12-13,150,No
+21,31,Cashback,2024-09-02,200,No
+22,32,Cashback,2024-08-09,50,Yes
+23,34,Cashback,2024-08-31,100,Yes
+24,36,Discount Coupon,2024-12-16,75,Yes
+25,36,Discount Coupon,2024-09-17,100,Yes
+26,39,Discount Coupon,2024-08-15,75,No
+27,43,Cashback,2024-10-21,50,Yes
+28,43,Referral Bonus,2024-10-17,150,Yes
+29,46,Cashback,2024-11-28,75,No
+30,56,Cashback,2024-12-19,75,Yes
+31,57,Cashback,2024-05-25,100,Yes
+32,61,Cashback,2024-12-16,25,No
+33,66,Discount Coupon,2024-12-11,150,Yes
+34,66,Cashback,2024-11-29,100,No
+35,67,Referral Bonus,2024-12-14,25,Yes
+36,68,Discount Coupon,2024-12-15,25,No
+37,68,Discount Coupon,2024-12-18,200,Yes
+38,69,Cashback,2024-11-11,100,Yes
+39,69,Referral Bonus,2024-11-07,100,Yes
+40,70,Referral Bonus,2024-03-06,200,No
+41,74,Cashback,2024-07-02,200,No
+42,74,Cashback,2024-04-05,200,No
+43,76,Discount Coupon,2024-07-09,75,Yes
+44,80,Discount Coupon,2024-12-10,50,Yes
+45,83,Discount Coupon,2024-08-15,100,Yes
+46,85,Cashback,2024-12-30,100,Yes
+47,87,Cashback,2024-09-28,150,No
+48,94,Cashback,2024-12-07,75,Yes
+49,94,Cashback,2024-08-12,25,No
+50,97,Cashback,2024-12-09,150,No
+51,97,Referral Bonus,2024-11-02,50,No
+52,98,Referral Bonus,2024-10-08,75,Yes
+53,98,Discount Coupon,2024-12-10,75,Yes
+54,102,Cashback,2024-08-03,50,No
+55,105,Referral Bonus,2024-11-24,50,No
+56,105,Discount Coupon,2024-07-12,75,No
+57,109,Cashback,2024-12-22,50,No
+58,110,Cashback,2024-11-27,200,Yes
+59,110,Discount Coupon,2024-10-03,50,No
+60,112,Discount Coupon,2024-11-02,200,Yes
+61,113,Discount Coupon,2024-08-25,150,No
+62,113,Referral Bonus,2024-07-07,200,Yes
+63,115,Discount Coupon,2024-11-07,25,No
+64,115,Cashback,2024-07-26,25,No
+65,116,Cashback,2024-05-31,25,Yes
+66,118,Referral Bonus,2024-12-13,50,No
+67,119,Cashback,2024-11-13,50,Yes
+68,120,Discount Coupon,2024-11-07,100,No
+69,120,Cashback,2024-06-11,150,Yes
+70,121,Discount Coupon,2024-08-05,25,No
+71,125,Referral Bonus,2024-10-19,100,Yes
+72,126,Cashback,2024-06-23,100,Yes
+73,127,Cashback,2024-12-13,200,Yes
+74,127,Cashback,2024-08-10,100,Yes
+75,133,Cashback,2024-10-12,100,No
+76,137,Cashback,2024-08-12,25,No
+77,137,Cashback,2024-10-10,150,Yes
+78,141,Discount Coupon,2024-12-30,150,No
+79,141,Cashback,2024-11-27,25,No
+80,142,Cashback,2024-10-28,50,Yes
+81,143,Cashback,2024-10-18,25,Yes
+82,147,Cashback,2024-12-01,150,Yes
+83,147,Cashback,2024-11-22,150,Yes
+84,149,Cashback,2024-12-23,25,Yes
+85,155,Discount Coupon,2024-12-10,100,Yes
+86,157,Discount Coupon,2024-11-20,100,No
+87,159,Cashback,2024-06-08,150,Yes
+88,159,Discount Coupon,2024-12-29,50,No
+89,160,Referral Bonus,2024-06-13,150,Yes
+90,160,Referral Bonus,2024-11-04,50,No
+91,168,Referral Bonus,2024-03-06,200,Yes
+92,169,Cashback,2024-07-08,25,Yes
+93,169,Cashback,2024-10-22,150,Yes
+94,171,Discount Coupon,2024-07-24,75,No
+95,173,Cashback,2024-11-13,150,Yes
+96,173,Cashback,2024-10-03,25,No
+97,174,Discount Coupon,2024-11-11,50,Yes
+98,177,Discount Coupon,2024-12-27,75,No
+99,177,Cashback,2024-12-17,25,Yes
+100,178,Referral Bonus,2024-06-09,200,Yes
+101,181,Cashback,2024-04-08,200,No
+102,181,Discount Coupon,2024-11-03,150,Yes
+103,182,Cashback,2024-10-30,25,No
+104,182,Discount Coupon,2024-11-14,100,Yes
+105,185,Cashback,2024-12-28,75,Yes
+106,185,Referral Bonus,2024-09-02,25,Yes
+107,186,Discount Coupon,2024-12-25,75,Yes
+108,186,Discount Coupon,2024-11-22,50,Yes
+109,187,Referral Bonus,2024-10-08,25,Yes
+110,195,Cashback,2024-04-04,75,Yes
+111,195,Cashback,2024-05-26,50,Yes
+112,197,Discount Coupon,2024-08-08,25,No
+113,198,Cashback,2024-12-14,200,Yes
+114,201,Discount Coupon,2024-12-14,25,No
+115,202,Cashback,2024-07-24,100,Yes
+116,202,Discount Coupon,2024-11-23,25,Yes
+117,213,Referral Bonus,2024-12-24,100,Yes
+118,214,Discount Coupon,2024-03-21,75,No
+119,214,Cashback,2024-09-24,150,Yes
+120,217,Referral Bonus,2024-10-30,50,No
+121,218,Cashback,2024-12-30,150,No
+122,219,Cashback,2024-09-04,100,Yes
+123,220,Cashback,2024-12-17,25,Yes
+124,223,Referral Bonus,2024-12-06,50,Yes
+125,223,Cashback,2024-06-21,150,Yes
+126,225,Cashback,2024-12-17,150,Yes
+127,225,Cashback,2024-11-30,50,Yes
+128,226,Cashback,2024-10-05,25,No
+129,226,Cashback,2024-11-15,50,No
+130,230,Cashback,2024-10-13,100,Yes
+131,230,Cashback,2024-09-14,25,No
+132,232,Cashback,2024-09-29,150,No
+133,232,Cashback,2024-09-18,100,Yes
+134,234,Cashback,2024-12-30,50,No
+135,235,Cashback,2024-11-08,25,No
+136,235,Discount Coupon,2024-10-18,75,Yes
+137,237,Referral Bonus,2024-05-22,200,No
+138,237,Cashback,2024-09-14,75,Yes
+139,238,Referral Bonus,2024-04-07,150,Yes
+140,238,Discount Coupon,2024-12-04,75,Yes
+141,239,Cashback,2024-12-26,75,No
+142,241,Cashback,2024-12-11,25,Yes
+143,241,Cashback,2024-12-26,100,Yes
+144,246,Discount Coupon,2024-07-05,100,Yes
+145,248,Discount Coupon,2024-12-04,50,Yes
+146,248,Cashback,2024-11-15,150,Yes
